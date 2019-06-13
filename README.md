@@ -8,4 +8,6 @@
 
 最终结果如图：
 
-![]()
+![](https://github.com/zhangxiaoling/Text-Sentiment-Classification/blob/master/pic1.png)
+
+![](https://github.com/zhangxiaoling/Text-Sentiment-Classification/blob/master/pic2.png)
